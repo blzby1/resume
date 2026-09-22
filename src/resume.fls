@@ -1,7 +1,7 @@
-PWD /home/bubz/coding/resume
+PWD /home/bubz/coding/resume/src
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT resume.tex
+INPUT /home/bubz/coding/resume/src/resume.tex
 OUTPUT resume.log
 INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
